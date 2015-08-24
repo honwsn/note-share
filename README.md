@@ -1,8 +1,9 @@
 my shares from evernote.
 
 
-[Android Webkit渲染中的正交投影与视口变换](http://www.ikitweb.com/ "Android Webkit渲染中的正交投影与视口变换")
+[Facebook Fresco图片库小结](http://www.evernote.com/l/AKsQPB6rm8BGI6U-RQ7-qBG_JXl2TgcIceo/)
 
+[Android Webkit渲染中的正交投影与视口变换](http://www.ikitweb.com/ "Android Webkit渲染中的正交投影与视口变换")
 
 [android开发笔记1](http://www.evernote.com/l/AKuH2gAz7WtMSpAoGr_p3MRZZ8AUr4Dwe5I/ "android开发笔记1")
 
